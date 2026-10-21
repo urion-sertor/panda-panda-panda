@@ -1,0 +1,17 @@
+# Entorno virtual (¡NUNCA se sube a Git!)
+.venv/
+venv/
+ENV/
+
+# Python cache y bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
