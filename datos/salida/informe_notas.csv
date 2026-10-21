@@ -1,0 +1,13 @@
+id_alumno;nombre;nota1;nota2;nota3;total;media
+001;Xavier Castillo;7.0;8.0;9.0;24.0;8.0
+002;Enrique Flores;5.0;;6.0;;
+003;Raúl Ruiz;9.0;9.0;10.0;28.0;9.33
+004;Pol Canizares;6.0;;7.0;;
+005;Didac Molina;4.0;;5.0;;
+006;Edgar Ortiz;;7.0;8.0;;
+007;Joel de Nicolás;6.0;;7.0;;
+008;Adrian Iturbe;;8.0;9.0;;
+009;Alejandro Jacobé;7.0;;;;
+010;Nil Borràs;;;;;
+011;Nuria Franch;;;;;
+012;Iker Parra;5.0;6.0;;;

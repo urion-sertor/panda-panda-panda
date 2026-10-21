@@ -1,0 +1,110 @@
+[
+  {
+    "id_alumno":"001",
+    "nombre":"Xavier Castillo",
+    "nota1":7.0,
+    "nota2":8.0,
+    "nota3":9.0,
+    "total":24.0,
+    "media":8.0
+  },
+  {
+    "id_alumno":"002",
+    "nombre":"Enrique Flores",
+    "nota1":5.0,
+    "nota2":null,
+    "nota3":6.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"003",
+    "nombre":"Raúl Ruiz",
+    "nota1":9.0,
+    "nota2":9.0,
+    "nota3":10.0,
+    "total":28.0,
+    "media":9.33
+  },
+  {
+    "id_alumno":"004",
+    "nombre":"Pol Canizares",
+    "nota1":6.0,
+    "nota2":null,
+    "nota3":7.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"005",
+    "nombre":"Didac Molina",
+    "nota1":4.0,
+    "nota2":null,
+    "nota3":5.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"006",
+    "nombre":"Edgar Ortiz",
+    "nota1":null,
+    "nota2":7.0,
+    "nota3":8.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"007",
+    "nombre":"Joel de Nicolás",
+    "nota1":6.0,
+    "nota2":null,
+    "nota3":7.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"008",
+    "nombre":"Adrian Iturbe",
+    "nota1":null,
+    "nota2":8.0,
+    "nota3":9.0,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"009",
+    "nombre":"Alejandro Jacobé",
+    "nota1":7.0,
+    "nota2":null,
+    "nota3":null,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"010",
+    "nombre":"Nil Borràs",
+    "nota1":null,
+    "nota2":null,
+    "nota3":null,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"011",
+    "nombre":"Nuria Franch",
+    "nota1":null,
+    "nota2":null,
+    "nota3":null,
+    "total":null,
+    "media":null
+  },
+  {
+    "id_alumno":"012",
+    "nombre":"Iker Parra",
+    "nota1":5.0,
+    "nota2":6.0,
+    "nota3":null,
+    "total":null,
+    "media":null
+  }
+]
