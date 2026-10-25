@@ -186,6 +186,7 @@ def mostrar_grafico(informe: pd.DataFrame) -> None:
     plt.figure(figsize=(7, 5))
     etiquetas = ["Actividad 1", "Actividad 2", "Actividad 3"]
     barras = plt.bar(etiquetas, medias, width=0.55, color="#1f77b4", edgecolor="#0e4b75")
+    plt.bar_label(barras, fmt="%.2f", padding=3)
 
     plt.ylim(0, 10)
     plt.title(f"Media por actividad ({len(completos)} alumnos)", fontsize=13, pad=15)

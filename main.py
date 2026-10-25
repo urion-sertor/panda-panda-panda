@@ -6,6 +6,10 @@ MP0486 · RA1 · Práctica Pandas
 import sys
 from datos import preparar_datos, guardar_informes, mostrar_grafico
 
+# Asegurar codificación UTF-8 para visualización limpia en consolas de Windows
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 
 def main() -> None:
     """Bucle principal de la aplicación con menú interactivo."""
